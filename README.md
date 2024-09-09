@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Aashish123-aikki
-- 👀 I’m interested in android development.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in backend development and machine learning.
 - 📫 How to reach me : You can email me at ashishkuchhal68@gmail.com
 
 <!---
